@@ -12,7 +12,7 @@ Este projeto é um carrinho de compras simples, onde os usuários podem visualiz
 <h2 id="layout">🎨 Layout</h2>
 
 <p align="center">
-    <img src="alura plus 1.png" width="780px" alt="Imagem 1">
+    <img src="carrinho-de-compras1.png" width="900px" alt="Imagem 1">
 </p>
 
 <p align="center"> 
